@@ -1,7 +1,5 @@
 # Rotten-fruit-identification-using-CNN
 
-# rottenAI
-
 ## Introduction
 Our project have 4 parts. Each part should be set up and run individually. 
 1) CNN Model to Classify Rotten and Fresh Banana Images
